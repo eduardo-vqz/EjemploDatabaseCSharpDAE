@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjemploDatabaseCSharpDAE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08ae74923edc76b15a52ed6b9b44f86ef044591")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7511a4a1352a4d8f36ddd99d309aea85960a544")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjemploDatabaseCSharpDAE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjemploDatabaseCSharpDAE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
