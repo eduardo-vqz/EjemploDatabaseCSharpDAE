@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDatabaseCSharpDAE", "EjemploDatabaseCSharpDAE.csproj", "{898C8CB2-9B31-4002-B6D4-84ED1A70F4F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploDatabaseCSharpDAE", "./EjemploDatabaseCSharpDAE/EjemploDatabaseCSharpDAE.csproj", "{898C8CB2-9B31-4002-B6D4-84ED1A70F4F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

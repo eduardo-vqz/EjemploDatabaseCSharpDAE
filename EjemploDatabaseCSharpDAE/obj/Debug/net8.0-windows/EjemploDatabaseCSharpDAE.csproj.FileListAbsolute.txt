@@ -1,0 +1,17 @@
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\bin\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.exe
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\bin\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.deps.json
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\bin\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.runtimeconfig.json
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\bin\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.dll
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\bin\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.pdb
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.Form1.resources
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.csproj.GenerateResource.cache
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.AssemblyInfoInputs.cache
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.AssemblyInfo.cs
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.csproj.CoreCompileInputs.cache
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.sourcelink.json
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.dll
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\refint\EjemploDatabaseCSharpDAE.dll
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.pdb
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\EjemploDatabaseCSharpDAE.genruntimeconfig.cache
+C:\Users\ejvasquez\Desktop\ejemplos\EjemploDatabaseCSharpDAE\obj\Debug\net8.0-windows\ref\EjemploDatabaseCSharpDAE.dll
